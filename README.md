@@ -1,5 +1,5 @@
 Ondango Shop Widget
 ===================
 
-Widget for browse best sellers from Ondango Test Shop.
+Widget for browsing best sellers from Ondango Test Shop.
 
